@@ -1,2 +1,1 @@
-# Actix
-Rust CRUD app
+# Actix Basics
